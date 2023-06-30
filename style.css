@@ -27,7 +27,7 @@ a:hover {
 }
 
 body {
-    background: url("/background.jpg") no-repeat center center/cover;
+    background: url("/imagens/background.jpg") no-repeat center center/cover;
     font-family: 'Montserrat', sans-serif;
     width: 100vw;
     height: 100vh;
